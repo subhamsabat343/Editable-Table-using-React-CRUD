@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Editable-Table-using-React-CRUD/static/css/main.95da97ca.css",
+    "main.js": "/Editable-Table-using-React-CRUD/static/js/main.1c040a9a.js",
+    "static/js/787.f3d7924f.chunk.js": "/Editable-Table-using-React-CRUD/static/js/787.f3d7924f.chunk.js",
+    "index.html": "/Editable-Table-using-React-CRUD/index.html",
+    "main.95da97ca.css.map": "/Editable-Table-using-React-CRUD/static/css/main.95da97ca.css.map",
+    "main.1c040a9a.js.map": "/Editable-Table-using-React-CRUD/static/js/main.1c040a9a.js.map",
+    "787.f3d7924f.chunk.js.map": "/Editable-Table-using-React-CRUD/static/js/787.f3d7924f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95da97ca.css",
+    "static/js/main.1c040a9a.js"
+  ]
+}
